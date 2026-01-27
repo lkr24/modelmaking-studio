@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/equipment-and-machines/equipment-and-machines/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/wiki/equipment-and-machines/equipment-and-machines/","tags":["gardenEntry"],"created":"2026-01-27T09:22:32.036+00:00","updated":"2026-01-27T11:16:07.356+00:00"}
 ---
 
 Laser cutters, plotters, large image scanner, 3d printers, cnc machine, fumes extractor etc

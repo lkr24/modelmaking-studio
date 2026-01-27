@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/survey/"}
+{"dg-publish":true,"permalink":"/wiki/survey/","created":"2026-01-27T12:22:19.010+00:00","updated":"2026-01-27T13:52:19.558+00:00"}
 ---
 
 # **Guide: How Architecture Students Should Survey Existing Spaces and Houses**
