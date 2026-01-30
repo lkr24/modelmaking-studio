@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/equipment-and-machines/equipment-and-machines/","created":"2026-01-27T09:22:32.036+00:00","updated":"2026-01-27T14:01:59.962+00:00"}
+{"dg-publish":true,"permalink":"/wiki/equipment-and-machines/equipment-and-machines/","created":"2026-01-27T09:22:32.036+00:00","updated":"2026-01-30T09:50:26.482+00:00"}
 ---
 
 Laser cutters, plotters, large image scanner, 3d printers, cnc machine, fumes extractor etc
@@ -30,6 +30,8 @@ Max dimensions: 330 x 240 x 300 mm build volume
 
 ### Other Equipment
 
-
 #### Fumes extractor
 
+
+---
+### Makers Space
